@@ -4,8 +4,8 @@
 
 // Vial
 #define VIAL_KEYBOARD_UID {0x40, 0xBF, 0x1F, 0xCB, 0xD1, 0x06, 0xC3, 0xEA}
-#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
-#define VIAL_UNLOCK_COMBO_COLS { 0, 14 }
+#define VIAL_UNLOCK_COMBO_ROWS { 1, 6 }
+#define VIAL_UNLOCK_COMBO_COLS { 1, 2 }
 
 // Solenoid
 #define SOLENOID_ACTIVE true
